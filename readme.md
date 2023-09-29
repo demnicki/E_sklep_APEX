@@ -1,0 +1,1 @@
+Aplikacja typu e-commerce napisana w technologii Oracle Application Express.
